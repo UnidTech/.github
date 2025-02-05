@@ -5,7 +5,7 @@ Bem-vindo ao repositório oficial da **UnidTech**! Somos uma empresa focada no d
 ## 🚀 Projetos
 Aqui você encontrará os principais projetos desenvolvidos pela UnidTech:
 
-### Unid Core
+### D4 Core
 Biblioteca backend para integração com MySQL, manipulação de datas, conversão de moedas e suporte a serviços AWS.
 
 - Desenvolvido em **Node.js**
@@ -13,7 +13,7 @@ Biblioteca backend para integração com MySQL, manipulação de datas, convers�
 - Geração de hashes e manipulação de strings
 - Integração com **AWS SDK**
 
-### Unid Core Server
+### D4 Core Server
 API backend baseada no **Unid Core**, fornecendo endpoints para diversas operações.
 
 - Desenvolvido em **Node.js + Express**
@@ -21,7 +21,7 @@ API backend baseada no **Unid Core**, fornecendo endpoints para diversas operaç
 - Integração com APIs de terceiros
 - Agendamento de tarefas com **cron**
 
-### Unid Dashboard
+### D4 Dashboard
 Interface web desenvolvida em **React** para visualização de dados e gestão de operações.
 
 - Utiliza **React + React Router**
