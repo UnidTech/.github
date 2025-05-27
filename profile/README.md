@@ -29,6 +29,25 @@ Interface web desenvolvida em **React** para visualização de dados e gestão d
 - Gráficos interativos com **Recharts**
 - Gerenciamento de arquivos com **OpusCapita File Manager**
 
+### D4 Media Server
+Servidor de gerenciamento e processamento de mídia para projetos internos.
+
+- Desenvolvido em **Node.js + Express**
+- Manipulação de vídeos com **FFmpeg** e **mediainfo-wrapper**
+- Upload e gerenciamento com **Multer** e **OpusCapita File Manager**
+- Monitoramento com **express-status-monitor**
+- Agendamento com **cron**
+
+### UPlayer 3
+Player web moderno com suporte a vídeos locais, integração com cache e rastreamento de eventos.
+
+- Desenvolvido em **React + TypeScript**
+- Suporte a reprodução com **react-player**
+- Gerenciamento de estado com **MobX**
+- Integração com **Sentry** para rastreamento de erros
+- Armazenamento local com **localforage** e **browserfs**
+- Utiliza **Workbox** para funcionalidades PWA
+
 ## 📌 Como Contribuir
 Este é um repositório privado, e as contribuições externas não são permitidas no momento.
 
