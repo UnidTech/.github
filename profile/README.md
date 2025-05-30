@@ -5,7 +5,7 @@ Bem-vindo ao repositório oficial da **UnidTech**! Somos uma empresa focada no d
 ## 🚀 Projetos
 Aqui você encontrará os principais projetos desenvolvidos pela UnidTech:
 
-### D4 Core
+### [D4 Core](https://github.com/UnidTech/d4-core)
 Biblioteca backend para integração com MySQL, manipulação de datas, conversão de moedas e suporte a serviços AWS.
 
 - Desenvolvido em **Node.js**
@@ -13,7 +13,7 @@ Biblioteca backend para integração com MySQL, manipulação de datas, convers�
 - Geração de hashes e manipulação de strings
 - Integração com **AWS SDK**
 
-### D4 Core Server
+### [D4 Core Server](https://github.com/UnidTech/d4-core-server)
 API backend baseada no **Unid Core**, fornecendo endpoints para diversas operações.
 
 - Desenvolvido em **Node.js + Express**
@@ -21,7 +21,7 @@ API backend baseada no **Unid Core**, fornecendo endpoints para diversas operaç
 - Integração com APIs de terceiros
 - Agendamento de tarefas com **cron**
 
-### D4 Dashboard
+### [D4 Dashboard](https://github.com/UnidTech/d4-dashboard)
 Interface web desenvolvida em **React** para visualização de dados e gestão de operações.
 
 - Utiliza **React + React Router**
@@ -29,7 +29,7 @@ Interface web desenvolvida em **React** para visualização de dados e gestão d
 - Gráficos interativos com **Recharts**
 - Gerenciamento de arquivos com **OpusCapita File Manager**
 
-### D4 Media Server
+### [D4 Media Server](https://github.com/UnidTech/d4-media-server)
 Servidor de gerenciamento e processamento de mídia para projetos internos.
 
 - Desenvolvido em **Node.js + Express**
@@ -38,7 +38,7 @@ Servidor de gerenciamento e processamento de mídia para projetos internos.
 - Monitoramento com **express-status-monitor**
 - Agendamento com **cron**
 
-### UPlayer 3
+### [UPlayer 3](https://github.com/UnidTech/uplayer-3)
 Player web moderno com suporte a vídeos locais, integração com cache e rastreamento de eventos.
 
 - Desenvolvido em **React + TypeScript**
